@@ -1,0 +1,12 @@
+**/*.svg
+**/*.ejs
+**/*.html
+dist
+.prettierignore
+es
+lib
+
+package.json
+.umi
+.umi-production
+.umi-test
