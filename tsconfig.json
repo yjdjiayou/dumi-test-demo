@@ -6,15 +6,16 @@
         "importHelpers": true,
         "jsx": "react",
         "declaration": true,
-        "esModuleInterop": true,
         "sourceMap": true,
-        "baseUrl": "./",
         "strict": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
         "paths": {
             "@/*": ["src/*"],
             "@@/*": ["src/.umi/*"]
-        },
-        "allowSyntheticDefaultImports": true
+        }
     },
     "exclude": [
         "node_modules",

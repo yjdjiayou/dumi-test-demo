@@ -2,7 +2,7 @@
 
 export default {
     // 指定入口文件:
-    entry: 'src/components/index', // 字符串/字符串数组，默认值为 src/index.js
+    entry: 'src/components/index.tsx', // 字符串/字符串数组，默认值为 src/index.js
 
     esm: {
         // rollup 模式：以 entry 为单位，将相关依赖打包输出为一个文件

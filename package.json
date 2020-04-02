@@ -72,6 +72,7 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
+    "@types/classnames": "^2.2.10",
     "dumi": "^1.0.11"
   },
   "peerDependencies": {
