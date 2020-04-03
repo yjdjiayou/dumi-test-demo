@@ -1,5 +1,5 @@
 ---
-title: dumi - 基于 Umi、为组件开发场景而生的文档工具
+title: 首页介绍
 order: 10
 hero:
   title: dumi

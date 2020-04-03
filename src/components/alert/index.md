@@ -1,10 +1,11 @@
 ---
 group:
   title: 组件
-order: 3
+  order: 20
+order: 1
 ---
 
-# Button 按钮
+# Alert 按钮
 
 ## Demo:
 

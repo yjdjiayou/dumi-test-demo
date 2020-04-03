@@ -1,5 +1,6 @@
 ---
-  title: babel-plugin-import
+group:
+title: babel
 ---
 
 
