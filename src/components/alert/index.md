@@ -1,8 +1,7 @@
 ---
 group:
   title: 组件
-  order: 20
-order: 1
+order: 3
 ---
 
 # Alert 按钮
